@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OkeyCID</string>
+    <string name="action_settings">移动网络设置</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="cells_nosupper">您当前手机SDK版本不支持查询此项</string>
+    <string name="cells_noNeighboring">没有相邻的CID信息</string>
+</resources>
